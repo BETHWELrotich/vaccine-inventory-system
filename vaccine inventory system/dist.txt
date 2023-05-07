@@ -1,0 +1,4 @@
+Pfizer PF USA 0 50 34 4214946
+Pfizer PF USA 0 50 12 4214946
+1 SinovSV SV 0 60 0 1
+Sinovac SV China 0 18 0 1

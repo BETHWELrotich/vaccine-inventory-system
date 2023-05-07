@@ -1,0 +1,13 @@
+vaccine  vaccine code   country  dose      distance covered  distributed quantity
+-------   ----------   ---------  ------   ----------------   -------------------
+PFIzer      PF            USA       2       50                   27
+Sinovac     SV             China    2       18                   20
+AstraZeneca AZ            UK        2       10                   24
+Sputnik V   SP           Russia     2       10                   15
+CanSinoBio CS           China       1      10.9                  25
+
+Pfizer PF USA 0 50 34 4214946
+Pfizer PF USA 0 50 12 4214946
+1 SinovSV SV 0 60 0 1
+Sinovac SV China 0 18 0 1
+fizzer 02BC Canada 0 1 0 1
